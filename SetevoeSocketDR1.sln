@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetevoeSocketDR1", "SetevoeSocketDR1\SetevoeSocketDR1.csproj", "{8E7E84C7-BA1F-4257-AC5B-B2D9BA07840C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E7E84C7-BA1F-4257-AC5B-B2D9BA07840C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E7E84C7-BA1F-4257-AC5B-B2D9BA07840C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E7E84C7-BA1F-4257-AC5B-B2D9BA07840C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E7E84C7-BA1F-4257-AC5B-B2D9BA07840C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5F154D9-A812-494C-BAED-012A594C3B15}
+	EndGlobalSection
+EndGlobal
